@@ -1,0 +1,65 @@
+header {
+	border: 3px solid black;
+	font-size: 40px;
+	text-align: center;
+	margin: 50px auto;
+	height: 220px;
+	width: 60%;
+	background-color: white;
+}
+body {
+	background-image: url("../images/hunger-games.jpg")
+	/*background-color: gray;*/
+}
+h5 {
+	font-size: 55px;
+	text-align: center;
+	margin: 35px auto;
+	height: 50px;
+	width: 15%;
+	background-color: white;	
+}
+#wins {
+	border: 3px solid black;
+	font-size: 75px;
+	text-align: center;
+	margin: 35px auto;
+	height: 150px;
+	width: 30%;
+	background-color: white;
+}
+
+
+#rightWordUnderscore {
+	border: 3px solid black;
+	font-size: 75px;
+	text-align: center;
+	margin: 35px auto;
+	height: 150px;
+	width: 30%;
+	background-color: white;
+}
+
+#wrongGuessRemaining {
+	border: 3px solid black;
+	font-size: 75px;
+	text-align: center;
+	margin: 50px auto;
+	height: 150px;
+	width: 30%;
+	background-color: white;
+	text-decoration-color: blue;
+}
+
+#wrongLetters {
+	border: 3px solid black;
+	font-size: 55px;
+	text-align: center;
+	margin: 50px auto;
+	height: 150px;
+	width: 30%;
+	background-color: white;
+}
+
+
+
